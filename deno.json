@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "all": "deno run 01-Patrones-Creacionales/01-Builder/builder.ts && deno run 02-Patrones-Estructurales/01-Adapter/adapter.ts && deno run 02-Patrones-Estructurales/02-Flyweight/flyweight.ts && deno run 03-Patrones-Comportamiento/01-Observer/observer.ts && deno run 01-Patrones-Creacionales/02-Factory-Method/factory-method.ts && deno run 01-Patrones-Creacionales/03-Prototype/prototype.ts && deno run 02-Patrones-Estructurales/03-Decorator/decorator.ts && deno run 03-Patrones-Comportamiento/02-Strategy/strategy.ts && deno run 03-Patrones-Comportamiento/03-State/state.ts && deno run 03-Patrones-Comportamiento/04-Command/command.ts"
+  },
+  "fmt": {
+    "useTabs": false,
+    "lineWidth": 120,
+    "indentWidth": 2,
+    "singleQuote": true
+  }
+}
